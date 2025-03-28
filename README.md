@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Taha Waqar 👋</h1>
   </div>
 <p align="center">
-<a href="https://github.com/Taha-Waqar"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;+Data+Enthusiast&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/tahawaqar"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;+Data+Enthusiast&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
 <!-- animation end  -->
             
@@ -37,19 +37,19 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Taha-Waqar">
+  <a href="https://github.com/tahawaqar">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taha-Waqar&theme=radical&border=7F3FBF&background=0D1117" alt="Taha Waqar's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Taha-Waqar">
+  <a href="https://github.com/tahawaqar">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taha-Waqar&theme=radical" alt="Taha Waqar's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Taha-Waqar"><img alt="Taha Waqar Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Taha-Waqar&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/tahawaqar><img alt="Taha Waqar Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Taha-Waqar&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Taha-Waqar"><img alt="Taha Waqar Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Taha-Waqar&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
