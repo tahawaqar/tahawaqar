@@ -8,7 +8,7 @@
 <!-- animation end  -->
             
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
-    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgxeXY1dDN1eHM3aTYxOWtlNzljaXZsOGVtajVzYjVscW05MmY1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
 <hr>
 <h3 style="margin-top: 4px;">BUILDING KNOWLEDGE & IMPROVING SKILLS</h3>
 • 📚 Majoring in Computer Science at Iqra University.<br>
