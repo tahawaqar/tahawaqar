@@ -12,7 +12,7 @@
 <hr>
 <h3 style="margin-top: 4px;">BUILDING KNOWLEDGE & IMPROVING SKILLS</h3>
 • 📚 Majoring in Computer Science at Iqra University.<br>
-• 🌱 Learning "Datacraft: Mastering Analytics" course at Bano Qabil.<br> 
+• 🌱 Learning "Multi Cloud Data Engineering" course at SMIT.<br> 
 • 🚀 Curious, Hard-working, and always looking to grow.<br>
 • 🔥 Passionate about exploring AI and Data Analytics.<br>
 <hr>
